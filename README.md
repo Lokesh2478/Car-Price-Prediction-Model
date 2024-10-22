@@ -45,6 +45,3 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 
 The dataset used for training is not included in this repository. You can use any dataset with car features and prices, such as [Kaggle Car Price Datasets](https://www.kaggle.com/datasets).
 
----
-
-This version avoids the License and Contributing sections as requested. Let me know if you'd like further changes!
