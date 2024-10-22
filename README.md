@@ -1,6 +1,4 @@
-Here's the revised README without the License and Contributing sections:
 
----
 
 # Car Price Prediction Model
 
